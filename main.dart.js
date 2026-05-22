@@ -9991,7 +9991,7 @@ _.r=c
 _.w=d
 _.x=e
 _.Q=_.z=_.y=null
-_.as="\u0623\u062a\u064a\u0644\u064a\u0647 \u0644\u064a\u0644\u0629 \u0627\u0644\u0639\u0645\u0631"
+_.as="Atelier Management System"
 _.at=u.m
 _.ax="01018173874"
 _.c=_.a=_.ay=null},
@@ -65393,7 +65393,7 @@ $0(){this.a.Q=this.b},
 $S:0}
 A.aRx.prototype={
 $0(){var s=this,r=s.a,q=s.b
-r.as=q!=null&&B.p.a2(q).length!==0?B.p.a2(q):"\u0623\u062a\u064a\u0644\u064a\u0647 \u0644\u064a\u0644\u0629 \u0627\u0644\u0639\u0645\u0631"
+r.as=q!=null&&B.p.a2(q).length!==0?B.p.a2(q):"Atelier Management System"
 q=s.c
 r.at=q!=null&&B.p.a2(q).length!==0?B.p.a2(q):u.m
 q=s.d
@@ -65496,7 +65496,7 @@ a4=A.bk(a2.h(0,"brand_english_name"))
 a5=A.bk(a2.h(0,"brand_phone"))
 a6=A.bk(a2.h(0,"brand_address"))
 a7=A.bk(a2.h(0,"brand_logo_path"))
-a8=a3!=null&&B.p.a2(a3).length!==0?B.p.a2(a3):"\u0623\u062a\u064a\u0644\u064a\u0647 \u0644\u064a\u0644\u0629 \u0627\u0644\u0639\u0645\u0631"
+a8=a3!=null&&B.p.a2(a3).length!==0?B.p.a2(a3):"Atelier Management System"
 a9=a4!=null&&B.p.a2(a4).length!==0?B.p.a2(a4):"Lelt Alomr Atelier"
 b0=a5!=null&&B.p.a2(a5).length!==0?B.p.a2(a5):"01018173874"
 b1=a6!=null&&B.p.a2(a6).length!==0?B.p.a2(a6):u.m
@@ -68316,7 +68316,7 @@ a7(){return new A.Om(B.a_s)}}
 A.Om.prototype={
 WY(){this.E(new A.aI6(this))},
 J(a){var s=null,r=this.d,q=A.y8(B.a0F,B.zq,B.bN,s,B.aaa,B.ju,s),p=A.y8(A.bcZ(B.tG,s,s,B.nI,B.hd),B.zq,B.bY,s,A.beu(B.tG,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.lI,s)
-return new A.JF(new A.rL(this.gaXV(),s),A.a6(["/DressPurchasePage",new A.aI4()],t.N,t.y_),new A.aI5(),"\u0623\u062a\u064a\u0644\u064a\u0647 \u0644\u064a\u0644\u0629 \u0627\u0644\u0639\u0645\u0631",q,p,r,!1,s)}}
+return new A.JF(new A.rL(this.gaXV(),s),A.a6(["/DressPurchasePage",new A.aI4()],t.N,t.y_),new A.aI5(),"Atelier Management System",q,p,r,!1,s)}}
 A.aI6.prototype={
 $0(){var s=this.a
 s.d=s.d===B.yl?B.buh:B.yl},
@@ -68589,7 +68589,7 @@ gKe(){var s=B.p.a2(this.b)
 if(s.length!==0)return s
 s=B.p.a2(this.c)
 if(s.length!==0)return s
-return"\u0623\u062a\u064a\u0644\u064a\u0647 \u0644\u064a\u0644\u0629 \u0627\u0644\u0639\u0645\u0631"},
+return"Atelier Management System"},
 gaan(){var s=A.b([],t.s),r=B.p.a2(this.d)
 if(r.length!==0)s.push(r)
 r=B.p.a2(this.e)
